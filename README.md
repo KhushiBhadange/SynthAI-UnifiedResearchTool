@@ -58,7 +58,7 @@ To address the identified challenges faced by researchers, we propose the develo
 
 ### Architecture Diagram
 
-<img src="https://github.com/KhushiBhadange/SynthAI-UnifiedResearchTool/blob/main/SynthAI%20-%20Architecture%20Diagram.png" alt="Architecture Diagram" width="400" height="600"/>
+<img src="https://github.com/KhushiBhadange/SynthAI-UnifiedResearchTool/blob/main/SynthAI%20-%20Architecture%20Diagram.png" alt="Architecture Diagram" width="500" height="600"/>
 
 
 
