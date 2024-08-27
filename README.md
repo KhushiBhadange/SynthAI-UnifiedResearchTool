@@ -1,1 +1,1 @@
-# SynthAI-UnifiedResearchTool
+# SynthAI
