@@ -13,3 +13,39 @@
 
 </details>
 
+<details>
+  <summary>Time-Consuming Literature Reviews</summary>
+
+  Conducting thorough literature reviews is time-consuming and often requires manual summarization and analysis of large volumes of academic papers.
+
+</details>
+
+<details>
+  <summary>Citation Management</summary>
+
+  Managing references and citations accurately across different documents is cumbersome, especially when collaborating with multiple co-authors.
+
+</details>
+
+<details>
+  <summary>Documentation and Formatting</summary>
+
+  Maintaining proper documentation standards, including grammar checking and formatting (e.g., LaTeX), requires additional effort and expertise.
+
+</details>
+
+<details>
+  <summary>Collaboration Barriers</summary>
+
+  Effective collaboration among research teams is hindered by the lack of integrated project management and communication tools, leading to coordination issues and delays.
+
+</details>
+
+<details>
+  <summary>Data Analysis Complexity</summary>
+
+  Performing data analysis requires specialized tools and knowledge, which may not be readily accessible to all researchers.
+
+</details>
+
+
